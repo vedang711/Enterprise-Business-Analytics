@@ -1,4 +1,5 @@
 # Enterprise Data Analytics Platform
+## Business Insights 360
 
 **Project Author:** Vedang Mishra
 
