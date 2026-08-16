@@ -11,8 +11,6 @@ The company faced challenges in making data-driven decisions because business an
 
 The main objective is to help stakeholders understand business performance, identify trends and problem areas, and answer important business questions using interactive dashboards.
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMTQwNWVlNmUtZWY5ZC00Mjc4LWJhMzMtZWZkMzA3OTM0YTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
-
 ## Tech Stack
 
 - SQL
