@@ -248,8 +248,4 @@ The report enables stakeholders to:
 - Support data-driven decision-making
 - Investigate the reasons behind changes in business performance
 
-## Full Report
 
-You can explore the complete Power BI report here:
-
-[View Full Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTQwNWVlNmUtZWY5ZC00Mjc4LWJhMzMtZWZkMzA3OTM0YTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
